@@ -5,10 +5,13 @@
 ‎
 ‎<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayakkirtan00-sketch" alt="vinayakkirtan00-sketch" /></a> </p>
 ‎
+‎<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+‎
 ‎- ⚡ Fun fact **I am funny 😂**
 ‎
 ‎<h3 align="left">Connect with me:</h3>
 ‎<p align="left">
+‎<a href="https://discord.gg/https://discord.gg/punVRfwYb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/punVRfwYb5" height="30" width="40" /></a>
 ‎</p>
 ‎
 ‎<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
